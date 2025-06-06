@@ -1,0 +1,15 @@
+{
+  "originHash" : "df10319091d770c40ff2395652c9c3fed589d02eadc3cd70463c0515cd4e296e",
+  "pins" : [
+    {
+      "identity" : "wand",
+      "kind" : "remoteSourceControl",
+      "location" : "http://github.com/The-Wand/Wand",
+      "state" : {
+        "revision" : "409d91c31ae04765dcf314cf74a2058946827bfd",
+        "version" : "1.5.5"
+      }
+    }
+  ],
+  "version" : 3
+}
